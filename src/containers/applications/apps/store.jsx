@@ -482,7 +482,7 @@ const FrontPage = (props) => {
               return x == "unescape" ? (
                 <a
                   key={i}
-                  href="https://blueedge.me/unescape"
+                  href="#"
                   target="_blank"
                   rel="noreferrer"
                 >
